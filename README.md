@@ -1,2 +1,2 @@
 # ml-coursework-notebooks
-v
+Machine Learning coursework notebooks and experiments
